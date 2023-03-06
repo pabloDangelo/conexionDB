@@ -1,0 +1,15 @@
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\bin\Debug\net6.0\ConexionDB.exe
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\bin\Debug\net6.0\ConexionDB.deps.json
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\bin\Debug\net6.0\ConexionDB.runtimeconfig.json
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\bin\Debug\net6.0\ConexionDB.dll
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\bin\Debug\net6.0\ConexionDB.pdb
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.csproj.AssemblyReference.cache
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.AssemblyInfoInputs.cache
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.AssemblyInfo.cs
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.csproj.CoreCompileInputs.cache
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.dll
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\refint\ConexionDB.dll
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.pdb
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ConexionDB.genruntimeconfig.cache
+C:\REPOS\PRACTICAS Desarrollo\lomoChanllenge\ConexionDB\ConexionDB\obj\Debug\net6.0\ref\ConexionDB.dll
